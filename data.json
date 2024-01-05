@@ -1,0 +1,46 @@
+[
+    {
+        "caseId": 1,
+        "case_name": "Wrong Termination Case Documentation",
+        "added_on": "time stamp",
+        "client": "Johanna",
+        "UCI": "HCA",
+        "JN": "5",
+        "year": "1998",
+        "files": ["xx.pdf", "xxa.pdf", "xxa.pdf"],
+        "summary": "This is the summary of this case"
+    },
+    {
+        "caseId": 2,
+        "case_name": "Wrong Termination Case Documentation",
+        "added_on": "time stamp",
+        "client": "Johanna",
+        "UCI": "HCA",
+        "JN": "5",
+        "year": "1998",
+        "files": ["xx.pdf", "xx.pdf", "xxa.pdf"],
+        "summary": "This is the summary of this case"
+    },
+    {
+        "caseId": 3,
+        "case_name": "Wrong Termination Case Documentation",
+        "added_on": "time stamp",
+        "client": "Johanna",
+        "UCI": "HCA",
+        "JN": "5",
+        "year": "1998",
+        "files": ["xx.pdf", "xx.pdf", "xxa.pdf"],
+        "summary": "This is the summary of this case"
+    },
+    {
+        "caseId": 4,
+        "case_name": "Wrong Termination Case Documentation",
+        "added_on": "time stamp",
+        "client": "Johanna",
+        "UCI": "HCA",
+        "JN": "5",
+        "year": "1998",
+        "files": ["xx.pdf", "xx.pdf"],
+        "summary": "This is the summary of this case"
+    }
+]
